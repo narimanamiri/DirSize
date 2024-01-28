@@ -11,4 +11,4 @@ chmod +x Dir-size.sh
 
 then run
 
-./Dir-size.sh <Directory> which is the Desired directory
+./Dir-size.sh < Directory > which is the Desired directory
